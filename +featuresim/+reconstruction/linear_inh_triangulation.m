@@ -25,7 +25,7 @@ function [X,X_err] = linear_inh_triangulation(K,R12,T12,x1,x2)
 %   X(:,i): non-homogeneous 3D point written in camera 1 
 %   X_err(i): |AX-b| 
 %
-% Copyright (c) 2013 Jeffrey Byrne <jebyrne@gmail.com>
+% Copyright (c) 2008 Jeffrey Byrne <jebyrne@gmail.com>
 %
 %--------------------------------------------------------------------
 

@@ -5,7 +5,7 @@ function img = pts2img(pts)
 %
 % Description:  Create a binary image from a sparse set of 2D points
 %
-% Copyright (c) 2013 Jeffrey Byrne <jebyrne@gmail.com>
+% Copyright (c) 2008 Jeffrey Byrne <jebyrne@gmail.com>
 %
 %--------------------------------------------------------------------
 

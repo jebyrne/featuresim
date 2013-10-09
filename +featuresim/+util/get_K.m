@@ -11,7 +11,7 @@ function K = get_K(cam_prms);
 % Output
 %   K: 3x3 camera intrinsic calibration matrix 
 %
-% Copyright (c) 2013 Jeffrey Byrne <jebyrne@gmail.com>
+% Copyright (c) 2008 Jeffrey Byrne <jebyrne@gmail.com>
 %
 %--------------------------------------------------------------------
 

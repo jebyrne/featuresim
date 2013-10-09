@@ -1,12 +1,11 @@
 %--------------------------------------------------------------------
 %
-% File: test_stereo_simulator.m
-% Author: Jeffrey Byrne (jbyrne@ssci.com)
+% File: demo_expansion.m
 %
 % Description:  Wrapper script to demonstrate and test 
 % the stereo simulator (stereo_simulator.m)
 %
-% $Id: ttc.m 15 2012-01-06 01:53:17Z jbyrne $
+% Copyright (c) 2008 Jeffrey Byrne <jebyrne@gmail.com>
 %
 %--------------------------------------------------------------------
 

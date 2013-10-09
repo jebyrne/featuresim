@@ -1,7 +1,7 @@
 function [] = demo_featuresim()
 %--------------------------------------------------------------------
 %
-% Copyright (c) 2013 Jeffrey Byrne <jebyrne@gmail.com>
+% Copyright (c) 2008 Jeffrey Byrne <jebyrne@gmail.com>
 %
 %--------------------------------------------------------------------
 

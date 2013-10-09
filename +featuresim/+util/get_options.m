@@ -20,7 +20,7 @@ function [opt_out] = get_options(opt_in, opt_default, opt_error_flag)
 % Outputs:
 %   opt_out: output options structure
 %
-% Copyright (c) 2013 Jeffrey Byrne <jebyrne@gmail.com>
+% Copyright (c) 2008 Jeffrey Byrne <jebyrne@gmail.com>
 %
 %--------------------------------------------------------------------
 

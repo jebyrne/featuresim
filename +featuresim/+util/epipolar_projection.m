@@ -19,7 +19,7 @@ function [op,n] = epipolar_projection(F,x1,x2)
 %   n: orthogonal projection direction (unit vector normal to
 %   epipolar line)
 %
-% Copyright (c) 2013 Jeffrey Byrne <jebyrne@gmail.com>
+% Copyright (c) 2008 Jeffrey Byrne <jebyrne@gmail.com>
 %
 %--------------------------------------------------------------------
 

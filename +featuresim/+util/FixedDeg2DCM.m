@@ -15,7 +15,7 @@ function [R] = Fixed2DCM(W)
 % Outputs
 %   R: direction cosine matrix
 % 
-% Copyright (c) 2013 Jeffrey Byrne <jebyrne@gmail.com>
+% Copyright (c) 2008 Jeffrey Byrne <jebyrne@gmail.com>
 %
 %--------------------------------------------------------------------
 

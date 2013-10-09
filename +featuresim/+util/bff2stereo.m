@@ -28,7 +28,7 @@ function [T_1to2, P1, P2] = bff2stereo(x_bff_in_ned_1, x_bff_in_ned_2, x_ned_in_
 %
 % All orientations are 3-2-1 Euler rotations, all angles radians
 %
-% Copyright (c) 2013 Jeffrey Byrne <jebyrne@gmail.com>
+% Copyright (c) 2008 Jeffrey Byrne <jebyrne@gmail.com>
 %
 %-------------------------------------------------------------------------
 

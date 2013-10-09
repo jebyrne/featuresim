@@ -17,7 +17,7 @@ function [ssd_error] = reprojection_error(F,x,y)
 % Output:
 %   ssd_error: sum of squared error between y and l
 %
-% Copyright (c) 2013 Jeffrey Byrne <jebyrne@gmail.com>
+% Copyright (c) 2008 Jeffrey Byrne <jebyrne@gmail.com>
 %
 %--------------------------------------------------------------------
 

@@ -13,7 +13,7 @@ function [rmat,sc,rderv,r1,r2,r3] = euler2rotmat(euler)
 % written by r. k. prasanth
 % date: september 2000
 %
-% Copyright (c) 2013 Jeffrey Byrne <jebyrne@gmail.com>
+% Copyright (c) 2008 Jeffrey Byrne <jebyrne@gmail.com>
 %
 %--------------------------------------------------------------------
 

@@ -15,7 +15,7 @@ function [len,n] = OrthProjLen_Line2Point(l,p)
 %   len: length of the orthogonal projection from line l to point p
 %   n: unit vector orthogonal to line l
 %
-% Copyright (c) 2013 Jeffrey Byrne <jebyrne@gmail.com>
+% Copyright (c) 2008 Jeffrey Byrne <jebyrne@gmail.com>
 %
 %--------------------------------------------------------------------
 

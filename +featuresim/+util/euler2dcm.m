@@ -14,7 +14,7 @@ function [R] = euler2dcm(euler)
 % Outputs:
 %    R: 3x3 rotation matrix that matches the simulink block output.
 %
-% Copyright (c) 2013 Jeffrey Byrne <jebyrne@gmail.com>
+% Copyright (c) 2008 Jeffrey Byrne <jebyrne@gmail.com>
 %
 %--------------------------------------------------------------------
 

@@ -14,7 +14,7 @@ function T = enu2ned(O_ned_in_enu)
 %   2. Craig, "Introduction to Robotics, Second Edition", p39 (2.45) 
 %   3. ImageNavSim README for frame description
 %    
-% Copyright (c) 2013 Jeffrey Byrne <jebyrne@gmail.com>
+% Copyright (c) 2008 Jeffrey Byrne <jebyrne@gmail.com>
 %
 %--------------------------------------------------------------------
 A = [0 1 0; 1 0 0; 0 0 -1];

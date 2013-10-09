@@ -5,7 +5,7 @@ function d = rad2deg(r)
 %             
 % Description:  Degrees to radians
 %
-% Copyright (c) 2013 Jeffrey Byrne <jebyrne@gmail.com>
+% Copyright (c) 2008 Jeffrey Byrne <jebyrne@gmail.com>
 %
 %--------------------------------------------------------------------
 d = (180/pi)*r;

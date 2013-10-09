@@ -6,6 +6,8 @@
 % Description:  Wrapper script to demonstrate and test 
 % the stereo simulator of featuresim
 %
+% Copyright (c) 2008 Jeffrey Byrne <jebyrne@gmail.com>
+%
 %--------------------------------------------------------------------
 
 

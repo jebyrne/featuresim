@@ -13,7 +13,7 @@ of this toolbox is analsis of sparse feature based computer vision algorithms fo
 
 Summary 
 -------
-Project: FEATURESIM - A matlab toolbox for generating 2D image projections of 3D features
+Project: FEATURESIM - A matlab toolbox for generating 2D image projections of 3D features  
 Author: Jeffrey Byrne <jebyrne@gmail.com>  
 URL: https://github.com/jebyrne/featuresim/  
 

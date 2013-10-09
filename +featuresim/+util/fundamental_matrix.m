@@ -30,7 +30,7 @@ function [F,E] = fundamental_matrix(varargin)
 %   (R21,T21) which is camera one written in camera two.  If
 %   P1=[I|0], then P2=[R21|T21]=[R12|-R12*T12].
 %
-% Copyright (c) 2013 Jeffrey Byrne <jebyrne@gmail.com>
+% Copyright (c) 2008 Jeffrey Byrne <jebyrne@gmail.com>
 %
 %--------------------------------------------------------------------
 if (nargin == 3)

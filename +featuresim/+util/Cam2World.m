@@ -3,7 +3,7 @@ function [TW1,TW2] = Cam2World(EO)
 %
 % File: Cam2World.m
 %
-% Copyright (c) 2013 Jeffrey Byrne <jebyrne@gmail.com>
+% Copyright (c) 2008 Jeffrey Byrne <jebyrne@gmail.com>
 %
 %--------------------------------------------------------------------
 

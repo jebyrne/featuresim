@@ -5,7 +5,7 @@ function r = d2r(d)
 %             
 % Description:  Degrees to radians
 %
-% Copyright (c) 2013 Jeffrey Byrne <jebyrne@gmail.com>
+% Copyright (c) 2008 Jeffrey Byrne <jebyrne@gmail.com>
 %
 %--------------------------------------------------------------------
 % Convert degrees to radians

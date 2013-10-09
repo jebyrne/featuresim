@@ -28,7 +28,7 @@ function [P] = bff2cam(x_bff_in_ned, x_ned_in_enu, x_cam_in_bff)
 %
 % All orientations are 3-2-1 Euler rotations, all angles radians
 %
-% Copyright (c) 2013 Jeffrey Byrne <jebyrne@gmail.com>
+% Copyright (c) 2008 Jeffrey Byrne <jebyrne@gmail.com>
 %
 %-------------------------------------------------------------------------
 
